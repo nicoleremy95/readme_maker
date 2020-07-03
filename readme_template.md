@@ -18,7 +18,7 @@ TEXT
 TEXT 
 
 ### License
-#### This application is covered under TEXT
+This application is covered under TEXT
 
 ### Contributing 
 TEXT
