@@ -4,25 +4,31 @@
 TEXT
 
 ## Table of Contents
+1. [Installation](#installation)
+2. [Usage](#usage)
+3. [License](#license)
+[Contributing](#contributing)
+[Tests](#tests)
+[Questions](#questions)
+
+### Installation
 TEXT
 
-#### Installation
-TEXT
-
-#### Usage
+### Usage
 TEXT 
 
-#### License
+### License
 TEXT
 
-#### Contributing 
+### Contributing 
 TEXT
 
-#### Tests
+### Tests
 TEXT
 
-#### Questions
-TEXT
+### Questions
+[Github](TEXT)
+[Email](TEXT)
 
 
 

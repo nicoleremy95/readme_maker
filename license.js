@@ -1,0 +1,3 @@
+const license = function(){
+    if ()
+}
