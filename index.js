@@ -58,6 +58,38 @@ inquirer.prompt([
 ]).then(function(response){
     console.log("sucess!")
     console.log(response)
+    const readMeString = `# Title
+ 
+    ### Description
+    ${response.description}
+    
+    ## Table of Contents
+   
+    
+    #### Installation
+    ${response.installation}
+    
+    #### Usage
+    ${response.usage} 
+    
+    #### License
+    ${response.license}
+    
+    #### Contributing 
+    ${response.contribution}
+    
+    #### Tests
+    ${response.test}
+    
+    #### Questions
+    ${response.github}
+    ${response.email}`
+    console.log(readMeString);
+    fs.writeFile("README.md", readMeString, function(err){
+        if(err){
+            throw err
+        }console.log("new readme written")
+    })
 })
 
 
