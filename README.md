@@ -1,8 +1,10 @@
 
-# Jelly Fish Fields
- 
+# and;ga
+
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ### Description
-this is a web application for you to learn everything there is to know about jelly fish
+nike
     
 ## Table of Contents
 1. [Installation](#installation)
@@ -13,24 +15,24 @@ this is a web application for you to learn everything there is to know about jel
 6. [Questions](#questions)
 
 ### Installation
-please install package in your js file
+anigau
 
 ### Usage
-anyone can use 
+anwioe 
 
 ### License 
 
-![License](https://img.shields.io/badge/License-ISC-yellow.svg)
+This application is covered under MIT
 
 
 ### Contributing 
-pull requests necessarty
+anieogw
 
 ### Tests
-be patient
+anidogd
 
 ### Questions
-1. [Github](nicoleremy95)
-2. [Email](nicoleremy95@gmail.com)
+1. [Github](ajdga)
+2. [Email](nwiew)
     
     

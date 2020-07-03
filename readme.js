@@ -1,7 +1,9 @@
 const readMeString = function (response){
     return `
 # ${response.title}
- 
+
+![License](https://img.shields.io/badge/License-${response.license}-yellow.svg)
+
 ### Description
 ${response.description}
     
@@ -21,7 +23,7 @@ ${response.usage}
 
 ### License 
 
-![License](https://img.shields.io/badge/License-${response.license}-yellow.svg)
+This application is covered under ${response.license}
 
 
 ### Contributing 

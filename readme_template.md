@@ -7,9 +7,9 @@ TEXT
 1. [Installation](#installation)
 2. [Usage](#usage)
 3. [License](#license)
-[Contributing](#contributing)
-[Tests](#tests)
-[Questions](#questions)
+4. [Contributing](#contributing)
+5. [Tests](#tests)
+6. [Questions](#questions)
 
 ### Installation
 TEXT
@@ -18,7 +18,7 @@ TEXT
 TEXT 
 
 ### License
-TEXT
+#### This application is covered under TEXT
 
 ### Contributing 
 TEXT
@@ -27,8 +27,8 @@ TEXT
 TEXT
 
 ### Questions
-[Github](TEXT)
-[Email](TEXT)
+1. [Github](TEXT)
+2. [Email](TEXT)
 
 
 
