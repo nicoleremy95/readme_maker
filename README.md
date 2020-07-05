@@ -21,27 +21,27 @@ When the user selects the type of license, a badge appears a the top of the read
 
 ### Step 1
 
-![step 1](assests/step1.png)
+![step 1](assets/step1.png)
 
 ### Step 2
 
-![step 1](assests/step2.png)
+![step 1](assets/step2.png)
 
 ### Step 3
 
-![step 1](assests/step3.png)
+![step 1](assets/step3.png)
 
 ### Step 4
 
-![step 1](assests/step4.png)
+![step 1](assets/step4.png)
 
 ### Step 5
 
-![step 1](assests/step5.png)
+![step 1](assets/step5.png)
 
 ### Step 6
 
-![step 1](assests/step6.png)
+![step 1](assets/step6.png)
 
 ### Installation
 In terminal, please type npm install readme maker, then require the package in your js file. 

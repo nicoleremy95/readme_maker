@@ -1,7 +1,7 @@
 const inquirer = require("inquirer");
 const fs = require("fs");
-const readMeString = require("./readme.js")
-const questions = require("./inquirer_prompts")
+const readMeString = require("./util/readme.js")
+const questions = require("./util/inquirer_prompts")
 
 inquirer.prompt(
     questions.questions

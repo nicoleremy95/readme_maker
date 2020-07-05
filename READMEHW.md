@@ -1,10 +1,10 @@
 
-# Weather Dashboard
+# nadips
 
-![License](https://img.shields.io/badge/License-ISC-yellow.svg)
+![License](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ### Description
-This application allows you to view current and future weather condiditons 
+aowie
     
 ## Table of Contents
 1. [Installation](#installation)
@@ -15,24 +15,24 @@ This application allows you to view current and future weather condiditons
 6. [Questions](#questions)
 
 ### Installation
-N/A
+HOWIGA
 
 ### Usage
-Use to create a weather application 
+WOID 
 
 ### License 
 
-This application is covered under ISC
+This application is covered under MIT
 
 
 ### Contributing 
-Pull requests are welcome
+osdifda
 
 ### Tests
-Make sure to update tests as appropriate
+ahowie
 
 ### Questions
-1. [Github](githubuser01)
-2. [Email](githubuser01@aol.com)
+1. [Github](adhoigs)
+2. [Email](aiogs)
     
     
