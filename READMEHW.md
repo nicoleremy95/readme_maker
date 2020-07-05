@@ -1,10 +1,10 @@
 
-# naiodfs
+# Weather Dashboard
 
-![License](https://img.shields.io/badge/License-MIT-yellow.svg)
+![License](https://img.shields.io/badge/License-ISC-yellow.svg)
 
 ### Description
-andohga
+This application allows you to view current and future weather condiditons 
     
 ## Table of Contents
 1. [Installation](#installation)
@@ -15,24 +15,24 @@ andohga
 6. [Questions](#questions)
 
 ### Installation
-wnoiee
+N/A
 
 ### Usage
-angoia 
+Use to create a weather application 
 
 ### License 
 
-This application is covered under MIT
+This application is covered under ISC
 
 
 ### Contributing 
-iwoew
+Pull requests are welcome
 
 ### Tests
-wnotuw
+Make sure to update tests as appropriate
 
 ### Questions
-1. [Github](woutei)
-2. [Email](qoeite)
+1. [Github](githubuser01)
+2. [Email](githubuser01@aol.com)
     
     
