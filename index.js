@@ -9,7 +9,7 @@ inquirer.prompt(
     console.log("sucess!")
     console.log(response)
     
-    fs.writeFile("README.md", readMeString(response), function(err){
+    fs.writeFile("READMEHW.md", readMeString(response), function(err){
         if(err){
             throw err
         }console.log("new readme written")

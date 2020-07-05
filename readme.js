@@ -37,6 +37,5 @@ ${response.test}
 2. [Email](${response.email})
     
     `
-    console.log(readMeString);
 }
     module.exports = readMeString
